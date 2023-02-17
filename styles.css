@@ -1,13 +1,17 @@
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     background: black;
 }
+
 h1 {
-    
+
     margin: 10rem;
 }
 .teste {
-    width:70%;
-    margin-left: 1rem;
+    width:60%;
+    margin-left: 3rem;
     color: #fff;
 
 }
