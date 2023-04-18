@@ -23,7 +23,7 @@ Este projeto consiste em um formulário de contato que permite aos usuários pre
 - Design responsivo utilizando Bootstrap.
 - Envio de email utilizando a API Formsubmit.
 
-##Observações
+## Observações
 - Certifique-se de que os campos do formulário estão preenchidos corretamente antes de enviar
 - Verifique se há uma conexão de internet ativa, pois a API FormSubmit requer uma conexão para funcionar
 - Para utilizar este projeto em um site real, será necessário obter uma chave de API da FormSubmit e inseri-la no código do projeto.
